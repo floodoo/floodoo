@@ -12,7 +12,9 @@ Hi, my name is Florian Schmitz. I'm currently apprenticing as a software develop
 It's an app to improve the [Untis app](https://webuntis.com/) for my school class. A classmate and i are trying to scan our learn schedule and turn it into a       colored lesson plan
 
 ### 🎯 What are my goals?
-
+- [] Learn everything I can
+- [] Develop fancy stuff
+- [] Don't eat so many cookies
 
 ### 📱 How to reach me?
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flo.0705/)
