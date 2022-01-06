@@ -1,15 +1,29 @@
 ### 👨 Who am I?
+xxx
 
 ### 🪚 My current projects
-* [Untis phasierung](https://github.com/floodoo/untis_phasierung)  
-  It's an app to improve the [Untis app](https://webuntis.com/) for my school class. A classmate and i are trying to scan our learn schedule and turn it into a       colored lesson plan
+[Untis phasierung](https://github.com/floodoo/untis_phasierung)  
+It's an app to improve the [Untis app](https://webuntis.com/) for my school class. A classmate and i are trying to scan our learn schedule and turn it into a       colored lesson plan
 
 ### 🎯 What are my goals?
+xxx
 
 ### 📱 How to reach me?
+xxx
 
 ### 📊 My Stats
-[![My github stats](https://github-readme-stats.vercel.app/api?username=floodoo&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/floodoo)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=floodoo&hide=prs,issues,contribs&show_icons=true&theme=dark&hide_rank=false&include_all_commits=true&count_private=true)](https://github.com/floodoo)
 
-### 👨‍💻 My top used languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=floodoo)](https://github.com/floodoo)
+### 👨‍💻 Top used languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=floodoo&theme=dark&layout=compact)](https://github.com/floodoo)
+
+### 🤖 My biggest project
+<a href="https://github.com/floodoo/Joy-it-Grab-it-robot02-frontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=floodoo&repo=Joy-it-Grab-it-robot02-frontend&theme=dark" />
+</a>
+<a href="https://github.com/floodoo/Joy-it-Grab-it-robot02-backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=floodoo&repo=Joy-it-Grab-it-robot02-backend&theme=dark" />
+</a>
+
+### 🕓 Time spent in vs code
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=floodoo)](https://github.com/floodoo)
