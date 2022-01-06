@@ -1,6 +1,8 @@
 ### 👨 Who am I?
 
 ### 🪚 My current projects
+* [Untis phasierung](https://github.com/floodoo/untis_phasierung)  
+  It's an app to improve the Untis app for my school class. A classmate and i are trying to scan our learn schedule and turn it into a colored lesson plan
 
 ### 🎯 What are my goals?
 
