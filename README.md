@@ -1,12 +1,18 @@
 ### 👨 Who am I?
-xxx
+Hi, my name is Florian Schmitz. I'm currently apprenticing as a software developer at [coodoo GmbH](https://coodoo.de). 
+|int id|String question|bool answer|
+|:---|:---:|:---:|
+|0|"Do I love programming?"|true|
+|1|"Light Mode"|false|
+|2|"Why does it work?"|true|
+|3|"Why does it not work?"|true|
 
 ### 🪚 My current projects
 [Untis phasierung](https://github.com/floodoo/untis_phasierung)  
 It's an app to improve the [Untis app](https://webuntis.com/) for my school class. A classmate and i are trying to scan our learn schedule and turn it into a       colored lesson plan
 
 ### 🎯 What are my goals?
-xxx
+
 
 ### 📱 How to reach me?
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flo.0705/)
@@ -15,7 +21,7 @@ xxx
 
 
 ### 📊 My Stats
-![My github stats](https://github-readme-stats.vercel.app/api?username=floodoo&hide=prs,issues,contribs&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true&count_private=true&hide_border=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=floodoo&hide=prs,issues,contribs&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true&count_private=true&hide_border=true&custom_title=My%20Github%20Stats)
 
 ![My github stats](https://activity-graph.herokuapp.com/graph?username=floodoo&bg_color=151515&color=9f9f9f&line=79ff97&point=fff&area=true&area_color=79ff97&custom_title=My%20Contribution%20Graph&hide_border=true)
 
