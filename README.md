@@ -6,7 +6,8 @@ Hi, my name is Florian Schmitz. I'm currently apprenticing as a software develop
 |1|"Light Mode?"|false|
 |2|"Why does it work?"|true|
 |3|"Why does it not work?"|true|
-<br/><br/>
+
+
 ### 🪚 My current projects
 [Untis phasierung](https://github.com/floodoo/untis_phasierung)  
 It's an app to improve the [Untis app](https://webuntis.com/) for my school class. A classmate and i are trying to scan our learn schedule and turn it into a       colored lesson plan
