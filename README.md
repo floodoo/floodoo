@@ -41,3 +41,6 @@ It's an app to improve the [Untis app](https://webuntis.com/) for my school clas
 <br/><br/>
 ### 🕓 Time spent in VSCode in the last 7 days
 ![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@floodoo&theme=dark&hide_border=true)
+<br/><br/>
+
+<img align="right" src="https://komarev.com/ghpvc/?username=floodoo&color=orange">
