@@ -12,7 +12,7 @@ xxx
 xxx
 
 ### 📊 My Stats
-[![My github stats](https://github-readme-stats.vercel.app/api?username=floodoo&hide=prs,issues,contribs&show_icons=true&theme=dark&hide_rank=false&include_all_commits=true&count_private=true)](https://github.com/floodoo)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=floodoo&hide=prs,issues,contribs&show_icons=true&theme=dark&hide_rank=true&include_all_commits=true&count_private=true)](https://github.com/floodoo)
 
 ### 👨‍💻 Top used languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=floodoo&theme=dark&layout=compact)](https://github.com/floodoo)
@@ -26,4 +26,4 @@ xxx
 </a>
 
 ### 🕓 Time spent in VSCode in the last 7 days
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@floodoo)](https://github.com/floodoo)
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@floodoo&theme=dark)](https://github.com/floodoo)
