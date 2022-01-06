@@ -15,7 +15,7 @@ It's an app to improve the [Untis app](https://webuntis.com/) for my school clas
 ### 🎯 What are my goals?
 - [ ] 📖 Learn everything I can
 - [ ] 👨‍💻 Develop fancy stuff
-- [ ] 🍪 Don't eat so much cookies
+- [ ] 🍪 Don't eat so many cookies
 <br/><br/>
 ### 📱 How to reach me?
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flo.0705/)
