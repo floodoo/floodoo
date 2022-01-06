@@ -25,5 +25,5 @@ xxx
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=floodoo&repo=Joy-it-Grab-it-robot02-backend&theme=dark" />
 </a>
 
-### 🕓 Time spent in VSCode
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=floodo&theme=dark)](https://github.com/floodoo)
+### 🕓 Time spent in VSCode in the last 7 days
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@floodoo)](https://github.com/floodoo)
