@@ -26,4 +26,4 @@ xxx
 </a>
 
 ### 🕓 Time spent in VSCode
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=floodoo)](https://github.com/floodoo)
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=floodo&theme=dark)](https://github.com/floodoo)
