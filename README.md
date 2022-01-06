@@ -3,7 +3,7 @@ Hi, my name is Florian Schmitz. I'm currently apprenticing as a software develop
 |int id|String question|bool answer|
 |:---|:---:|:---:|
 |0|"Do I love programming?"|true|
-|1|"Light Mode"|false|
+|1|"Light Mode?"|false|
 |2|"Why does it work?"|true|
 |3|"Why does it not work?"|true|
 
