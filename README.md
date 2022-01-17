@@ -10,8 +10,10 @@ Hi, my name is Florian Schmitz. I'm currently apprenticing as a software develop
 
 ### 🪚 My current projects
 
-[Untis phasierung](https://github.com/floodoo/untis_phasierung)  
-It's an app to improve the [Untis app](https://webuntis.com/) for my school class. A classmate and i are trying to scan our learn schedule and turn it into a colored lesson plan
+<a href="https://github.com/floodoo/untis_phasierung">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=floodoo&repo=untis_phasierung&theme=dark&hide_border=true" />
+</a>
+
 <br/><br/>
 
 ### 🎯 What are my goals?
