@@ -35,7 +35,7 @@ It's an app to improve the [Untis app](https://webuntis.com/) for my school clas
 ![My github stats](https://activity-graph.herokuapp.com/graph?username=floodoo&bg_color=151515&color=9f9f9f&line=79ff97&point=fff&area=true&area_color=79ff97&custom_title=My%20Contribution%20Graph&hide_border=true)
 <br/><br/>
 
-### 👨‍💻 Top used languages
+### 👨‍💻 Most used languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=floodoo&theme=dark&layout=compact&hide_border=true)
 <br/><br/>
