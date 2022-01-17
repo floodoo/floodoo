@@ -51,7 +51,7 @@ It's an app to improve the [Untis app](https://webuntis.com/) for my school clas
 
 <br/><br/>
 
-### 🕓 Time I spent programming since Friday
+### 🕓 Time I spent programming since 07.01.2022
 
 ![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@floodoo&theme=dark&hide_border=true&v=2)
 <br/><br/>
