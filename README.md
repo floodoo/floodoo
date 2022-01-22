@@ -53,7 +53,7 @@ Hi, my name is Florian Schmitz. I'm currently apprenticing as a software develop
 
 <br/><br/>
 
-### 🕓 Time I spent programming since 07.01.2022
+### 🕓 Time I have programmed in the last 7 days
 
 ![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@floodoo&theme=dark&hide_border=true&v=2)
 <br/><br/>
