@@ -37,7 +37,7 @@ Hi, my name is Florian Schmitz. I'm currently apprenticing as a software develop
 ![My github stats](https://activity-graph.herokuapp.com/graph?username=floodoo&bg_color=151515&color=9f9f9f&line=79ff97&point=fff&area=true&area_color=79ff97&custom_title=My%20Contribution%20Graph&hide_border=true)
 <br/><br/>
 
-### 👨‍💻 Most used languages
+### 👨‍💻 Most used languages in public repository. It does not show my actual skills
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=floodoo&theme=dark&layout=compact&hide_border=true)
 <br/><br/>
