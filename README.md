@@ -38,7 +38,7 @@ Hi, my name is Florian Schmitz. I'm currently apprenticing as a software develop
 <br/><br/>
 
 ### 👨‍💻 Most used languages in public repository. 
-⚠️ It does not show my actual skills!
+⚠️ It does not show my actual skills or experience!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=floodoo&theme=dark&layout=compact&hide_border=true)
 <br/><br/>
