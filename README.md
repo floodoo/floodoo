@@ -37,7 +37,8 @@ Hi, my name is Florian Schmitz. I'm currently apprenticing as a software develop
 ![My github stats](https://activity-graph.herokuapp.com/graph?username=floodoo&bg_color=151515&color=9f9f9f&line=79ff97&point=fff&area=true&area_color=79ff97&custom_title=My%20Contribution%20Graph&hide_border=true)
 <br/><br/>
 
-### 👨‍💻 Most used languages in public repository. 
+### 👨‍💻 Most used languages in public repository.
+
 ⚠️ It does not show my actual skills or experience!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=floodoo&theme=dark&layout=compact&hide_border=true)
@@ -59,4 +60,7 @@ Hi, my name is Florian Schmitz. I'm currently apprenticing as a software develop
 ![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@floodoo&theme=dark&hide_border=true&v=2)
 <br/><br/>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=floodoo&color=orange">
+<a href="https://komarev.com/ghpvc/?username=floodoo&color=orange">
+    <img src="https://komarev.com/ghpvc/?username=floodoo&color=orange">
+</a>
+<a href="https://github.com/floodoo?tab=followers"><img src="https://img.shields.io/github/followers/floodoo?label=Followers&style=social" alt="GitHub Badge"></a>
