@@ -63,4 +63,3 @@ Hi, my name is Florian Schmitz. I'm currently apprenticing as a software develop
 <a href="https://komarev.com/ghpvc/?username=floodoo&color=orange">
     <img src="https://komarev.com/ghpvc/?username=floodoo&color=orange">
 </a>
-<a href="https://github.com/floodoo?tab=followers"><img src="https://img.shields.io/github/followers/floodoo?label=Followers&style=social" alt="GitHub Badge"></a>
