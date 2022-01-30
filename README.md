@@ -61,5 +61,5 @@ Hi, my name is Florian Schmitz. I'm currently apprenticing as a software develop
 <br/><br/>
 
 <a href="https://komarev.com/ghpvc/?username=floodoo&color=orange">
-    <img src="https://komarev.com/ghpvc/?username=floodoo&color=orange">
+    <img align="right" src="https://komarev.com/ghpvc/?username=floodoo&color=orange">
 </a>
