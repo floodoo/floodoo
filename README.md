@@ -1,4 +1,4 @@
-### 👨 Who am I?
+### 🧑 Who am I?
 
 Hi, my name is Florian Schmitz. I'm currently apprenticing as a software developer at [coodoo GmbH](https://coodoo.de).
 |int id|String question|bool answer|
