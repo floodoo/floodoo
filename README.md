@@ -7,7 +7,6 @@ Hi, my name is Florian Schmitz. I'm currently apprenticing as a software develop
 |`1`|`"Light Mode?"`|`false`|
 |`2`|`"Why does it work?"`|`true`|
 |`3`|`"Why does it not work?"`|`true`|
-<br/><br/>
 
 ### 🪚 My current projects
 
