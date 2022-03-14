@@ -9,11 +9,7 @@ Hi, my name is Florian Schmitz. I'm currently apprenticing as a software develop
 |`3`|`"Why does it not work?"`|`true`|
 
 ### 🪚 My current projects
-
-<a href="https://github.com/floodoo/untis_phasierung">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=floodoo&repo=untis_phasierung&theme=dark&hide_border=true" />
-</a>
-<br/><br/>
+A top secret project😉
 
 ### 🎯 What are my goals?
 
