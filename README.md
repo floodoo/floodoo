@@ -45,12 +45,3 @@ A top secret project😉
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=floodoo&repo=Joy-it-Grab-it-robot02-backend&theme=dark&hide_border=true" />
 </a>
 <br/><br/>
-
-### 🕓 Time I have programmed in the last 7 days
-
-![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@floodoo&theme=dark&hide_border=true&v=2)
-<br/><br/>
-
-<a href="https://komarev.com/ghpvc/?username=floodoo&color=orange">
-    <img align="right" src="https://komarev.com/ghpvc/?username=floodoo&color=orange">
-</a>
