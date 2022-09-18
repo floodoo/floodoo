@@ -45,3 +45,6 @@ A top secret project😉
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=floodoo&repo=Joy-it-Grab-it-robot02-backend&theme=dark&hide_border=true" />
 </a>
 <br/><br/>
+
+### ⚠️ Important
+The contribution graph does not show my real work. I also work with gitlab and i recently deleted few projects.
