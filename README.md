@@ -13,9 +13,9 @@ A top secret project😉
 
 ### 🎯 What are my goals?
 
-- [ ] 📖 Learn everything I can
-- [ ] 👨‍💻 Develop fancy stuff
-- [ ] 🍪 Don't eat so many cookies
+- [ ] 📖 Learn for a lifetime
+- [ ] 👨‍💻 Develop fancy projects
+- [ ] 🚀 Found and build a start up
 <br/><br/>
 
 ### 📱 How to reach me?
