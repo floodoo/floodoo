@@ -1,4 +1,4 @@
-<img src="images/marke_florian_schmitz.png" alt="Florian Schmitz - A Journey Marked by Passion and Innovation" style="width: 100%;">
+<img src="images/brand_florian_schmitz.png" alt="Florian Schmitz - A Journey Marked by Passion and Innovation" style="width: 100%;">
 
 # Florian Schmitz - A Journey Marked by Passion and Innovation
 
@@ -16,11 +16,11 @@ My long-term goals are to develop software and apps for both B2B and B2C sectors
 
 Here are some of my recent projects:
 
-- **[Global B2B Wholesale Shop](https://www.linkedin.com/in/florian-schmitz-de/details/projects/)**:
+- **[Global B2B Wholesale Shop](https://www.linkedin.com/in/florian-schmitz-de/details/projects/)**:\
   I served as the Software Architect for a global conglomerate's B2B wholesale shop at coodoo GmbH, guiding the client's development team to ensure adaptive and responsive design across Android, iOS, and web platforms.
-- **[Management App for Fencing and Gates Industry](https://www.linkedin.com/in/florian-schmitz-de/details/projects/)**:
+- **[Management App for Fencing and Gates Industry](https://www.linkedin.com/in/florian-schmitz-de/details/projects/)**:\
   My team and I at coodoo GmbH developed a management app for a leading fencing and gates company, featuring offline capabilities, work timers, material tracking, and project documentation using Flutter to enhance construction site efficiency.
-- **[BeaConX Web App With Showcase App](https://www.linkedin.com/in/florian-schmitz-de/details/projects/)**:
+- **[BeaConX Web App With Showcase App](https://www.linkedin.com/in/florian-schmitz-de/details/projects/)**:\
   For my graduation project, I developed BeaConX, a BLE beacon-based proximity marketing tool with a Flutter frontend and Supabase backend, enhancing customer interaction and providing business insights.
 
 ## Collaboration with Richard Maasri
