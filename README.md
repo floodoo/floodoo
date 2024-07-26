@@ -1,26 +1,45 @@
-### 🧑 Who am I?
+<img src="images/marke_florian_schmitz.png" alt="Florian Schmitz - A Journey Marked by Passion and Innovation" style="width: 100%;">
 
-Hi, my name is Florian Schmitz. I'm currently apprenticing as a software developer at [coodoo GmbH](https://coodoo.de).
-|int id|String question|bool answer|
-|:---|:---:|:---:|
-|`0`|`"Do I love programming?"`|`true`|
-|`1`|`"Light Mode?"`|`false`|
-|`2`|`"Why does it work?"`|`true`|
-|`3`|`"Why does it not work?"`|`true`|
+# Florian Schmitz - A Journey Marked by Passion and Innovation
 
-### 🪚 My current projects
-A top secret project😉
+## About Me
 
-### 🎯 What are my goals?
+Hello, I'm Florian Schmitz, an ambitious, creative, and energetic software developer with a passion for Flutter and innovative technologies. My journey in software development is marked by passion, self-fulfillment, success, and enthusiasm.
 
-- [ ] 📖 Learn for a lifetime
-- [ ] 👨‍💻 Develop fancy projects
-- [ ] 🚀 Found and build a start up
-<br/><br/>
+I work as a **Flutter Engineer** at **[coodoo GmbH](https://coodoo.de/)**, a leading Flutter agency. Throughout my career, I have taken on roles such as team lead and software architect for various projects. Together with my friend Richard Maasri, I am in the process of founding a successful software company called **[CodeNature](https://github.com/CodeNatureHQ)**.
 
-### 📱 How to reach me?
+## Vision
 
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flo.0705/)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florian-schmitz-4b779522a/)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@flo-dev.me)
-<br/><br/>
+My long-term goals are to develop software and apps for both B2B and B2C sectors that everyone knows and uses. I aspire to be recognized as a successful entrepreneur and innovator who shares his passion and drives innovation.
+
+## Projects
+
+Here are some of my recent projects:
+
+- **[Global B2B Wholesale Shop](https://www.linkedin.com/in/florian-schmitz-de/details/projects/)**:
+  I served as the Software Architect for a global conglomerate's B2B wholesale shop at coodoo GmbH, guiding the client's development team to ensure adaptive and responsive design across Android, iOS, and web platforms.
+- **[Management App for Fencing and Gates Industry](https://www.linkedin.com/in/florian-schmitz-de/details/projects/)**:
+  My team and I at coodoo GmbH developed a management app for a leading fencing and gates company, featuring offline capabilities, work timers, material tracking, and project documentation using Flutter to enhance construction site efficiency.
+- **[BeaConX Web App With Showcase App](https://www.linkedin.com/in/florian-schmitz-de/details/projects/)**:
+  For my graduation project, I developed BeaConX, a BLE beacon-based proximity marketing tool with a Flutter frontend and Supabase backend, enhancing customer interaction and providing business insights.
+
+## Collaboration with Richard Maasri
+
+Together with my friend Richard Maasri, who shares similar goals, I am in the process of founding **[CodeNature](https://github.com/CodeNatureHQ)**. We are working together to develop innovative software solutions and share our knowledge. Learn more about Richard on his GitHub profile: [Richard Maasri](https://github.com/dasKamael).
+
+## References and Training
+
+We at **[coodoo GmbH](https://coodoo.de/)** offer Flutter training through the **Flutter™ Akademie** at [Flutter Germany](https://flutter.de). Visit the website to learn more about our training offerings.
+
+## Contact
+
+- **LinkedIn**:  [@florian-schmitz-de](https://www.linkedin.com/in/florian-schmitz-de/)
+- **X**:         [@_florianschmitz](https://x.com/_florianschmitz)
+- **Instagram**: [@_florianschmitz](https://www.instagram.com/_florianschmitz/)
+- **Email**:     [contact@codenature.dev](mailto:contact@codenature.dev)
+
+---
+
+> "With passion to innovation."
+
+Thank you for visiting my GitHub profile. I look forward to exciting projects and collaborations!
