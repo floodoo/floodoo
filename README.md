@@ -1,7 +1,5 @@
 <img src="images/brand_florian_schmitz.png" alt="Florian Schmitz - A Journey Marked by Passion and Innovation" style="width: 100%;">
 
-# Florian Schmitz - A Journey Marked by Passion and Innovation
-
 ## About Me
 
 Hello, I'm Florian Schmitz, an ambitious, creative, and energetic software developer with a passion for Flutter and innovative technologies. My journey in software development is marked by passion, self-fulfillment, success, and enthusiasm.
